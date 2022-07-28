@@ -1,0 +1,31 @@
+/*
+Theme Name: Multi Versus' Theme
+Author: Jiro
+Description: Multi Versus' Theme.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: multiVersusTheme
+*/
+
+@font-face {
+    font-family: 'MultiVerse';
+    src: url('fonts/MultiVerse.ttf');
+}
+
+#brandMultiVersus {
+    font-size: 54px;
+    font-family: 'MultiVerse';
+    color: #ffffff;
+    text-decoration: none;
+    letter-spacing: 3px;
+}
+
+#brandMultiVersus > span {
+    font-size: 33px;
+}
+
+#navMultiVersus {
+    background-color: red;
+    padding: 0 2%;
+}
